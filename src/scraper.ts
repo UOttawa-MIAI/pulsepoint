@@ -42,7 +42,7 @@ export async function scrapeUOttawaEngineeringEvents(targetUrl = EVENTS_ALL_URL)
       : `${UOTTAWA_BASE_URL}${rawHref.startsWith('/') ? '' : '/'}${rawHref}`;
 
     // Extract clean ID/Slug from URL
-    const urlParts = eventUrl.split('/').filter(Boolean);
+    const urlParts = eventUrl.split('?')[0].split('#')[0].split('/').filter(Boolean);
     const id = urlParts[urlParts.length - 1] || `event-${events.length}`;
 
     // Extract title text (clean up nested spans/whitespace)

@@ -79,14 +79,13 @@ export async function runPulsePointSync(options: SyncOptions = {}): Promise<{
   }
 
   console.log('🚀 Step 4: Dispatching rich embed cards to Discord...');
-  const { successCount, failureCount } = await postBatchEventsToDiscord(newEvents, webhookUrl);
+  const { successCount, failureCount, successfulEvents } = await postBatchEventsToDiscord(newEvents, webhookUrl);
   console.log(`\n📊 Discord Dispatch Results: ${successCount} successful, ${failureCount} failed.\n`);
 
   // 5. Update Storage
-  if (successCount > 0) {
+  if (successfulEvents.length > 0) {
     console.log('💾 Step 5: Committing new events to storage...');
-    const successfullyPostedEvents = newEvents.slice(0, successCount);
-    await recordPostedEvents(successfullyPostedEvents, storage);
+    await recordPostedEvents(successfulEvents, storage);
     console.log(`   Storage updated. Total historical events: ${storage.totalPosted}\n`);
   }
 

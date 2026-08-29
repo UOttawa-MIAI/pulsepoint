@@ -104,14 +104,14 @@ export async function postBatchEventsToDiscord(
   events: UOttawaEvent[],
   webhookUrl = process.env.DISCORD_WEBHOOK_URL,
   delayMs = 1200
-): Promise<{ successCount: number; failureCount: number }> {
-  let successCount = 0;
+): Promise<{ successCount: number; failureCount: number; successfulEvents: UOttawaEvent[] }> {
+  const successfulEvents: UOttawaEvent[] = [];
   let failureCount = 0;
 
   for (const event of events) {
     const success = await postEventToDiscord(event, webhookUrl);
     if (success) {
-      successCount++;
+      successfulEvents.push(event);
       console.log(`  ✅ Posted to Discord: "${event.title}"`);
     } else {
       failureCount++;
@@ -122,7 +122,11 @@ export async function postBatchEventsToDiscord(
     }
   }
 
-  return { successCount, failureCount };
+  return { 
+    successCount: successfulEvents.length, 
+    failureCount, 
+    successfulEvents 
+  };
 }
 
 // Standalone test suite for Step 4
