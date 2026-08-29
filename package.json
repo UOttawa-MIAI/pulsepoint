@@ -7,7 +7,8 @@
   "scripts": {
     "scrape": "tsx src/scraper.ts",
     "build": "tsc",
-    "test": "tsx src/scraper.ts"
+    "test:scraper": "tsx src/scraper.ts",
+    "test:calendar": "tsx src/calendar.ts"
   },
   "keywords": [
     "uottawa",

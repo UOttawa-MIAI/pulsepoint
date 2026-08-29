@@ -25,3 +25,21 @@ export interface ScrapingResult {
   totalEventsFound: number;
   events: UOttawaEvent[];
 }
+
+export interface CalendarEventDetails {
+  title: string;
+  description?: string;
+  location?: string;
+  url?: string;
+  startDate: Date;
+  endDate: Date;
+  allDay?: boolean;
+}
+
+export interface CalendarLinks {
+  google: string;
+  outlook: string;
+  office365: string;
+  icsContent: string;
+  icsDataUri: string;
+}
