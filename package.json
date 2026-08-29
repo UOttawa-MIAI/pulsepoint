@@ -1,0 +1,30 @@
+{
+  "name": "pulsepoint",
+  "version": "1.0.0",
+  "description": "Event and Course Synchronization Engine for the uOttawa MIAI Discord Community",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "tsx src/scraper.ts",
+    "build": "tsc",
+    "test": "tsx src/scraper.ts"
+  },
+  "keywords": [
+    "uottawa",
+    "miai",
+    "discord",
+    "events-sync",
+    "scraper"
+  ],
+  "author": "uOttawa MIAI Community",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
