@@ -1,5 +1,60 @@
 {
-  "lastSyncAt": null,
-  "totalPosted": 0,
-  "postedEvents": {}
+  "lastSyncAt": "2026-08-29T12:35:42.504Z",
+  "totalPosted": 9,
+  "postedEvents": {
+    "selected-areas-cryptography-conference-2026": {
+      "id": "selected-areas-cryptography-conference-2026",
+      "title": "Selected Areas in Cryptography Conference 2026",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/selected-areas-cryptography-conference-2026"
+    },
+    "23rd-annual-international-conference-privacy-security-trust": {
+      "id": "23rd-annual-international-conference-privacy-security-trust",
+      "title": "23rd Annual International Conference on Privacy, Security, and Trust (PST 2026)",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/23rd-annual-international-conference-privacy-security-trust"
+    },
+    "engineering-preparatory-workshop": {
+      "id": "engineering-preparatory-workshop",
+      "title": "Engineering Preparatory Workshop",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/engineering-preparatory-workshop"
+    },
+    "undergraduate-engineering-welcome-day": {
+      "id": "undergraduate-engineering-welcome-day",
+      "title": "Undergraduate Engineering Welcome Day",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/undergraduate-engineering-welcome-day"
+    },
+    "co-op-drop-session-welcome-back-admission-sept-10-2": {
+      "id": "co-op-drop-session-welcome-back-admission-sept-10-2",
+      "title": "Co-op Drop-in session: welcome back and admission",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-drop-session-welcome-back-admission-sept-10-2"
+    },
+    "co-op-session-admission-sept-11": {
+      "id": "co-op-session-admission-sept-11",
+      "title": "Co-op Drop-in session: welcome back and admission",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-session-admission-sept-11"
+    },
+    "co-op-session-admission-sept-15": {
+      "id": "co-op-session-admission-sept-15",
+      "title": "Co-op Drop-in session: welcome back and admission",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-session-admission-sept-15"
+    },
+    "engineering-graduate-welcome-information-session-course-based-masters": {
+      "id": "engineering-graduate-welcome-information-session-course-based-masters",
+      "title": "Engineering graduate welcome information session for course-based master's",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/engineering-graduate-welcome-information-session-course-based-masters"
+    },
+    "online-master-engineering-management-graduate-diploma-engineering-management-information": {
+      "id": "online-master-engineering-management-graduate-diploma-engineering-management-information",
+      "title": "Online Master of Engineering Management and Graduate Diploma in Engineering Management Information Session",
+      "postedAt": "2026-08-29T12:35:42.504Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/online-master-engineering-management-graduate-diploma-engineering-management-information"
+    }
+  }
 }
