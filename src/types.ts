@@ -56,3 +56,37 @@ export interface StorageData {
   totalPosted: number;
   postedEvents: Record<string, PostedEventRecord>;
 }
+
+export interface DiscordEmbedField {
+  name: string;
+  value: string;
+  inline?: boolean;
+}
+
+export interface DiscordEmbedFooter {
+  text: string;
+  icon_url?: string;
+}
+
+export interface DiscordEmbedImage {
+  url: string;
+}
+
+export interface DiscordEmbed {
+  title?: string;
+  description?: string;
+  url?: string;
+  color?: number;
+  fields?: DiscordEmbedField[];
+  image?: DiscordEmbedImage;
+  thumbnail?: DiscordEmbedImage;
+  footer?: DiscordEmbedFooter;
+  timestamp?: string;
+}
+
+export interface DiscordWebhookPayload {
+  username?: string;
+  avatar_url?: string;
+  content?: string;
+  embeds?: DiscordEmbed[];
+}

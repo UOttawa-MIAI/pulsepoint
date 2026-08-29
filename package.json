@@ -9,7 +9,8 @@
     "build": "tsc",
     "test:scraper": "tsx src/scraper.ts",
     "test:calendar": "tsx src/calendar.ts",
-    "test:storage": "tsx src/storage.ts"
+    "test:storage": "tsx src/storage.ts",
+    "test:discord": "tsx src/discord.ts"
   },
   "keywords": [
     "uottawa",
@@ -22,7 +23,8 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.9",
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "dotenv": "^17.4.2"
   },
   "devDependencies": {
     "@types/node": "^22.13.5",

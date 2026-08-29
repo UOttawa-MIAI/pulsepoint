@@ -42,10 +42,7 @@ export function generateGoogleCalendarUrl(event: CalendarEventDetails): string {
     ? `${formatCalendarDate(event.startDate, true)}/${formatCalendarDate(event.endDate, true)}`
     : `${formatCalendarDate(event.startDate)}/${formatCalendarDate(event.endDate)}`;
 
-  const detailsWithUrl = [
-    event.description || '',
-    event.url ? `\n\nEvent Link: ${event.url}` : '',
-  ].join('').trim();
+  const detailsWithUrl = event.url ? `Event Link: ${event.url}` : (event.description?.slice(0, 150) || '');
 
   const params = new URLSearchParams({
     action: 'TEMPLATE',
@@ -68,7 +65,7 @@ export function generateOutlookCalendarUrl(event: CalendarEventDetails): string 
     subject: event.title,
     startdt: event.startDate.toISOString(),
     enddt: event.endDate.toISOString(),
-    body: event.description || '',
+    body: event.url ? `Event Link: ${event.url}` : (event.description?.slice(0, 150) || ''),
     location: event.location || '',
     allday: event.allDay ? 'true' : 'false',
   });
@@ -86,7 +83,7 @@ export function generateOffice365CalendarUrl(event: CalendarEventDetails): strin
     subject: event.title,
     startdt: event.startDate.toISOString(),
     enddt: event.endDate.toISOString(),
-    body: event.description || '',
+    body: event.url ? `Event Link: ${event.url}` : (event.description?.slice(0, 150) || ''),
     location: event.location || '',
     allday: event.allDay ? 'true' : 'false',
   });
