@@ -1,0 +1,47 @@
+name: PulsePoint Event Synchronization
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write # Required to commit and push updated posted_events.json
+
+jobs:
+  sync-events:
+    name: Scrape & Synchronize Events
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run PulsePoint Synchronizer
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: npm run sync
+
+      - name: Commit & Push Updated Deduplication State
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/posted_events.json
+          # Only commit if data/posted_events.json was actually modified
+          if git diff --staged --quiet; then
+            echo "✨ No new events posted. Working tree clean, skipping commit."
+          else
+            echo "💾 New events posted. Committing state update..."
+            git commit -m "chore(sync): update posted events cache [skip ci]"
+            git push
+          fi

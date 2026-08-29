@@ -5,6 +5,9 @@
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
+    "start": "tsx src/index.ts",
+    "sync": "tsx src/index.ts",
+    "sync:dry": "tsx src/index.ts --dry-run",
     "scrape": "tsx src/scraper.ts",
     "build": "tsc",
     "test:scraper": "tsx src/scraper.ts",
