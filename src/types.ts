@@ -43,3 +43,16 @@ export interface CalendarLinks {
   icsContent: string;
   icsDataUri: string;
 }
+
+export interface PostedEventRecord {
+  id: string;
+  title: string;
+  postedAt: string;
+  eventUrl: string;
+}
+
+export interface StorageData {
+  lastSyncAt: string | null;
+  totalPosted: number;
+  postedEvents: Record<string, PostedEventRecord>;
+}
