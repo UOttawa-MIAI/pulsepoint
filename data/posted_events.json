@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-08-29T12:35:42.504Z",
-  "totalPosted": 9,
+  "lastSyncAt": "2026-08-31T22:43:29.314Z",
+  "totalPosted": 11,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -55,6 +55,18 @@
       "title": "Online Master of Engineering Management and Graduate Diploma in Engineering Management Information Session",
       "postedAt": "2026-08-29T12:35:42.504Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/online-master-engineering-management-graduate-diploma-engineering-management-information"
+    },
+    "online-master-digital-transformation-innovation-information-session": {
+      "id": "online-master-digital-transformation-innovation-information-session",
+      "title": "Online Master of Digital Transformation & Innovation Information Session",
+      "postedAt": "2026-08-31T22:43:29.314Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/online-master-digital-transformation-innovation-information-session"
+    },
+    "co-op-session-admission-sept-23": {
+      "id": "co-op-session-admission-sept-23",
+      "title": "Co-op Drop-in session: welcome back and admission",
+      "postedAt": "2026-08-31T22:43:29.314Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-session-admission-sept-23"
     }
   }
 }
