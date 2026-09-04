@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-08-31T22:43:29.314Z",
-  "totalPosted": 11,
+  "lastSyncAt": "2026-09-04T16:10:40.612Z",
+  "totalPosted": 12,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -67,6 +67,12 @@
       "title": "Co-op Drop-in session: welcome back and admission",
       "postedAt": "2026-08-31T22:43:29.314Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-session-admission-sept-23"
+    },
+    "start-strong-build-your-weekly-plan": {
+      "id": "start-strong-build-your-weekly-plan",
+      "title": "Start strong: Build your weekly plan",
+      "postedAt": "2026-09-04T16:10:40.612Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/start-strong-build-your-weekly-plan"
     }
   }
 }
