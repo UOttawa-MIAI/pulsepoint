@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-04T16:10:40.612Z",
-  "totalPosted": 12,
+  "lastSyncAt": "2026-09-09T16:24:35.241Z",
+  "totalPosted": 13,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -73,6 +73,12 @@
       "title": "Start strong: Build your weekly plan",
       "postedAt": "2026-09-04T16:10:40.612Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/start-strong-build-your-weekly-plan"
+    },
+    "online-master-interdisciplinary-artificial-intelligence-information-session": {
+      "id": "online-master-interdisciplinary-artificial-intelligence-information-session",
+      "title": "Online Master of Interdisciplinary Artificial Intelligence Information Session",
+      "postedAt": "2026-09-09T16:24:35.241Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/online-master-interdisciplinary-artificial-intelligence-information-session"
     }
   }
 }
