@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-09T16:24:35.241Z",
-  "totalPosted": 13,
+  "lastSyncAt": "2026-09-11T16:17:46.218Z",
+  "totalPosted": 14,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -79,6 +79,12 @@
       "title": "Online Master of Interdisciplinary Artificial Intelligence Information Session",
       "postedAt": "2026-09-09T16:24:35.241Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/online-master-interdisciplinary-artificial-intelligence-information-session"
+    },
+    "international-exchanges-info-session-french-faculty-engineering": {
+      "id": "international-exchanges-info-session-french-faculty-engineering",
+      "title": "International Exchanges Info Session (French) - Faculty of Engineering",
+      "postedAt": "2026-09-11T16:17:46.218Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/international-exchanges-info-session-french-faculty-engineering"
     }
   }
 }
