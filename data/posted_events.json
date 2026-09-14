@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-11T16:17:46.218Z",
-  "totalPosted": 14,
+  "lastSyncAt": "2026-09-14T21:43:14.546Z",
+  "totalPosted": 15,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -85,6 +85,12 @@
       "title": "International Exchanges Info Session (French) - Faculty of Engineering",
       "postedAt": "2026-09-11T16:17:46.218Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/international-exchanges-info-session-french-faculty-engineering"
+    },
+    "hack-hill-hackathon": {
+      "id": "hack-hill-hackathon",
+      "title": "Hack The Hill Hackathon",
+      "postedAt": "2026-09-14T21:43:14.546Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/hack-hill-hackathon"
     }
   }
 }
