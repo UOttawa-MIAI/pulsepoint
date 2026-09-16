@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-14T21:43:14.546Z",
-  "totalPosted": 15,
+  "lastSyncAt": "2026-09-16T11:18:17.473Z",
+  "totalPosted": 16,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -91,6 +91,12 @@
       "title": "Hack The Hill Hackathon",
       "postedAt": "2026-09-14T21:43:14.546Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/hack-hill-hackathon"
+    },
+    "graduate-professional-studies-information-fair": {
+      "id": "graduate-professional-studies-information-fair",
+      "title": "Graduate and Professional Studies: Information Fair and Panel Sessions",
+      "postedAt": "2026-09-16T11:18:17.473Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/graduate-professional-studies-information-fair"
     }
   }
 }
