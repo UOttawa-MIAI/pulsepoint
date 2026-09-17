@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-16T11:18:17.473Z",
-  "totalPosted": 16,
+  "lastSyncAt": "2026-09-17T16:45:13.785Z",
+  "totalPosted": 18,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -97,6 +97,18 @@
       "title": "Graduate and Professional Studies: Information Fair and Panel Sessions",
       "postedAt": "2026-09-16T11:18:17.473Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/graduate-professional-studies-information-fair"
+    },
+    "research-innovation-expo-2026": {
+      "id": "research-innovation-expo-2026",
+      "title": "Research and Innovation Expo 2026",
+      "postedAt": "2026-09-17T16:45:13.785Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/research-innovation-expo-2026"
+    },
+    "co-op-drop-session-welcome-back-admission": {
+      "id": "co-op-drop-session-welcome-back-admission",
+      "title": "Co-op Drop-in session: welcome back and admission",
+      "postedAt": "2026-09-17T16:45:13.785Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-drop-session-welcome-back-admission"
     }
   }
 }
