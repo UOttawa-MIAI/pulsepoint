@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-17T16:45:13.785Z",
-  "totalPosted": 18,
+  "lastSyncAt": "2026-09-23T16:39:37.821Z",
+  "totalPosted": 19,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -109,6 +109,12 @@
       "title": "Co-op Drop-in session: welcome back and admission",
       "postedAt": "2026-09-17T16:45:13.785Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/co-op-drop-session-welcome-back-admission"
+    },
+    "international-exchanges-info-session-english-faculty-engineering": {
+      "id": "international-exchanges-info-session-english-faculty-engineering",
+      "title": "International Exchanges Info Session (English) - Faculty of Engineering",
+      "postedAt": "2026-09-23T16:39:37.821Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/international-exchanges-info-session-english-faculty-engineering"
     }
   }
 }
