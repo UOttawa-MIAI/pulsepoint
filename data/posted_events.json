@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-23T16:39:37.821Z",
-  "totalPosted": 19,
+  "lastSyncAt": "2026-09-24T16:57:56.303Z",
+  "totalPosted": 21,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -115,6 +115,18 @@
       "title": "International Exchanges Info Session (English) - Faculty of Engineering",
       "postedAt": "2026-09-23T16:39:37.821Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/international-exchanges-info-session-english-faculty-engineering"
+    },
+    "employer-connect-series-tesla-motors": {
+      "id": "employer-connect-series-tesla-motors",
+      "title": "Employer Connect Series with Tesla Motors",
+      "postedAt": "2026-09-24T16:57:56.303Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/employer-connect-series-tesla-motors"
+    },
+    "steam-family-fair-uottawa": {
+      "id": "steam-family-fair-uottawa",
+      "title": "STEAM Family Fair - uOttawa",
+      "postedAt": "2026-09-24T16:57:56.303Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/steam-family-fair-uottawa"
     }
   }
 }
