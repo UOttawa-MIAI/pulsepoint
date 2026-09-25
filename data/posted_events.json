@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-24T16:57:56.303Z",
-  "totalPosted": 21,
+  "lastSyncAt": "2026-09-25T16:59:51.924Z",
+  "totalPosted": 23,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -127,6 +127,18 @@
       "title": "STEAM Family Fair - uOttawa",
       "postedAt": "2026-09-24T16:57:56.303Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/steam-family-fair-uottawa"
+    },
+    "faculty-engineering-homecoming-happy-hour": {
+      "id": "faculty-engineering-homecoming-happy-hour",
+      "title": "Faculty of Engineering Homecoming Happy Hour",
+      "postedAt": "2026-09-25T16:59:51.924Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/faculty-engineering-homecoming-happy-hour"
+    },
+    "employer-connect-series-lactalis-canada": {
+      "id": "employer-connect-series-lactalis-canada",
+      "title": "Employer Connect Series with Lactalis Canada",
+      "postedAt": "2026-09-25T16:59:51.924Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/employer-connect-series-lactalis-canada"
     }
   }
 }
