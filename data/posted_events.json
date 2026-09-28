@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-28T13:34:00.578Z",
-  "totalPosted": 24,
+  "lastSyncAt": "2026-09-28T23:08:48.429Z",
+  "totalPosted": 25,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -145,6 +145,12 @@
       "title": "Civil engineering student group showcase and free pizza lunch",
       "postedAt": "2026-09-28T13:34:00.578Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/civil-engineering-student-group-showcase-free-pizza-lunch"
+    },
+    "lunch-meet-greet-indigenous-stem-students": {
+      "id": "lunch-meet-greet-indigenous-stem-students",
+      "title": "Lunch and meet-and-greet for Indigenous STEM students",
+      "postedAt": "2026-09-28T23:08:48.429Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/lunch-meet-greet-indigenous-stem-students"
     }
   }
 }
