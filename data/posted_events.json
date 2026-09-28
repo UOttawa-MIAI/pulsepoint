@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-25T16:59:51.924Z",
-  "totalPosted": 23,
+  "lastSyncAt": "2026-09-28T13:34:00.578Z",
+  "totalPosted": 24,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -139,6 +139,12 @@
       "title": "Employer Connect Series with Lactalis Canada",
       "postedAt": "2026-09-25T16:59:51.924Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/employer-connect-series-lactalis-canada"
+    },
+    "civil-engineering-student-group-showcase-free-pizza-lunch": {
+      "id": "civil-engineering-student-group-showcase-free-pizza-lunch",
+      "title": "Civil engineering student group showcase and free pizza lunch",
+      "postedAt": "2026-09-28T13:34:00.578Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/civil-engineering-student-group-showcase-free-pizza-lunch"
     }
   }
 }
