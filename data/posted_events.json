@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-28T23:08:48.429Z",
-  "totalPosted": 25,
+  "lastSyncAt": "2026-09-30T12:20:48.936Z",
+  "totalPosted": 26,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -151,6 +151,12 @@
       "title": "Lunch and meet-and-greet for Indigenous STEM students",
       "postedAt": "2026-09-28T23:08:48.429Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/lunch-meet-greet-indigenous-stem-students"
+    },
+    "owasp-ottawa-application-security-conference": {
+      "id": "owasp-ottawa-application-security-conference",
+      "title": "OWASP Ottawa Application Security Conference",
+      "postedAt": "2026-09-30T12:20:48.936Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/owasp-ottawa-application-security-conference"
     }
   }
 }
