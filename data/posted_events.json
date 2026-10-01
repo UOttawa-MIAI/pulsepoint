@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-09-30T12:20:48.936Z",
-  "totalPosted": 26,
+  "lastSyncAt": "2026-10-01T22:34:13.152Z",
+  "totalPosted": 28,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -157,6 +157,18 @@
       "title": "OWASP Ottawa Application Security Conference",
       "postedAt": "2026-09-30T12:20:48.936Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/owasp-ottawa-application-security-conference"
+    },
+    "cybersecurity-mentoring-sessions": {
+      "id": "cybersecurity-mentoring-sessions",
+      "title": "Cybersecurity mentoring sessions",
+      "postedAt": "2026-10-01T22:34:13.152Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/cybersecurity-mentoring-sessions"
+    },
+    "ask-cybersecurity-professionals-anything-careers-communities-connections": {
+      "id": "ask-cybersecurity-professionals-anything-careers-communities-connections",
+      "title": "Ask Cybersecurity Professionals Anything: Careers, Communities & Connections",
+      "postedAt": "2026-10-01T22:34:13.152Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/ask-cybersecurity-professionals-anything-careers-communities-connections"
     }
   }
 }
