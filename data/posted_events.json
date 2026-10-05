@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-01T22:34:13.152Z",
-  "totalPosted": 28,
+  "lastSyncAt": "2026-10-05T14:17:59.352Z",
+  "totalPosted": 29,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -169,6 +169,12 @@
       "title": "Ask Cybersecurity Professionals Anything: Careers, Communities & Connections",
       "postedAt": "2026-10-01T22:34:13.152Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/ask-cybersecurity-professionals-anything-careers-communities-connections"
+    },
+    "employer-connect-series-cisco": {
+      "id": "employer-connect-series-cisco",
+      "title": "Employer Connect Series with Cisco",
+      "postedAt": "2026-10-05T14:17:59.352Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/employer-connect-series-cisco"
     }
   }
 }
