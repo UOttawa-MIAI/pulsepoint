@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-05T14:17:59.352Z",
-  "totalPosted": 29,
+  "lastSyncAt": "2026-10-07T13:06:20.918Z",
+  "totalPosted": 30,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -175,6 +175,12 @@
       "title": "Employer Connect Series with Cisco",
       "postedAt": "2026-10-05T14:17:59.352Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/employer-connect-series-cisco"
+    },
+    "agentic-software-development-beyond-hype": {
+      "id": "agentic-software-development-beyond-hype",
+      "title": "Agentic software development: beyond the hype",
+      "postedAt": "2026-10-07T13:06:20.918Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/agentic-software-development-beyond-hype"
     }
   }
 }
