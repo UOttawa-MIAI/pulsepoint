@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-07T13:06:20.918Z",
-  "totalPosted": 30,
+  "lastSyncAt": "2026-10-08T13:13:30.178Z",
+  "totalPosted": 31,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -181,6 +181,12 @@
       "title": "Agentic software development: beyond the hype",
       "postedAt": "2026-10-07T13:06:20.918Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/agentic-software-development-beyond-hype"
+    },
+    "go-eng-girl": {
+      "id": "go-eng-girl",
+      "title": "Go ENG Girl",
+      "postedAt": "2026-10-08T13:13:30.178Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/go-eng-girl"
     }
   }
 }
