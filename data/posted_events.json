@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-08T13:13:30.178Z",
-  "totalPosted": 31,
+  "lastSyncAt": "2026-10-09T22:30:48.210Z",
+  "totalPosted": 32,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -187,6 +187,12 @@
       "title": "Go ENG Girl",
       "postedAt": "2026-10-08T13:13:30.178Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/go-eng-girl"
+    },
+    "graduate-conference-geotechnical-hazards-risks": {
+      "id": "graduate-conference-geotechnical-hazards-risks",
+      "title": "Graduate Conference on Geotechnical Hazards and Risks",
+      "postedAt": "2026-10-09T22:30:48.210Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/graduate-conference-geotechnical-hazards-risks"
     }
   }
 }
