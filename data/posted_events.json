@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-09T22:30:48.210Z",
-  "totalPosted": 32,
+  "lastSyncAt": "2026-10-14T21:30:33.129Z",
+  "totalPosted": 33,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -193,6 +193,12 @@
       "title": "Graduate Conference on Geotechnical Hazards and Risks",
       "postedAt": "2026-10-09T22:30:48.210Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/graduate-conference-geotechnical-hazards-risks"
+    },
+    "faculty-engineering-graduate-studies-open-house": {
+      "id": "faculty-engineering-graduate-studies-open-house",
+      "title": "Faculty of Engineering Graduate Studies Open House",
+      "postedAt": "2026-10-14T21:30:33.129Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/faculty-engineering-graduate-studies-open-house"
     }
   }
 }
