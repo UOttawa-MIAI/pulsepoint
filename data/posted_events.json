@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-14T21:30:33.129Z",
-  "totalPosted": 33,
+  "lastSyncAt": "2026-10-18T04:07:24.252Z",
+  "totalPosted": 35,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -199,6 +199,18 @@
       "title": "Faculty of Engineering Graduate Studies Open House",
       "postedAt": "2026-10-14T21:30:33.129Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/faculty-engineering-graduate-studies-open-house"
+    },
+    "ai-buildathon-library": {
+      "id": "ai-buildathon-library",
+      "title": "AI Buildathon at the Library",
+      "postedAt": "2026-10-18T04:07:24.252Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/ai-buildathon-library"
+    },
+    "join-ai-buildathon-library": {
+      "id": "join-ai-buildathon-library",
+      "title": "Join the AI Buildathon at the Library",
+      "postedAt": "2026-10-18T04:07:24.252Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/join-ai-buildathon-library"
     }
   }
 }
