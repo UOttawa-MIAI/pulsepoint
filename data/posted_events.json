@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-18T04:07:24.252Z",
-  "totalPosted": 35,
+  "lastSyncAt": "2026-10-21T11:34:29.246Z",
+  "totalPosted": 36,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -211,6 +211,12 @@
       "title": "Join the AI Buildathon at the Library",
       "postedAt": "2026-10-18T04:07:24.252Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/join-ai-buildathon-library"
+    },
+    "stem-career-fair": {
+      "id": "stem-career-fair",
+      "title": "STEM Career Fair",
+      "postedAt": "2026-10-21T11:34:29.246Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/stem-career-fair"
     }
   }
 }
