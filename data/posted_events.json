@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-21T11:34:29.246Z",
-  "totalPosted": 36,
+  "lastSyncAt": "2026-10-22T16:59:45.514Z",
+  "totalPosted": 37,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -217,6 +217,12 @@
       "title": "STEM Career Fair",
       "postedAt": "2026-10-21T11:34:29.246Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/stem-career-fair"
+    },
+    "career-week-expo": {
+      "id": "career-week-expo",
+      "title": "Career Week Expo",
+      "postedAt": "2026-10-22T16:59:45.514Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/career-week-expo"
     }
   }
 }
