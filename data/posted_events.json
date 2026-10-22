@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-22T16:59:45.514Z",
-  "totalPosted": 37,
+  "lastSyncAt": "2026-10-22T21:25:10.158Z",
+  "totalPosted": 38,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -223,6 +223,12 @@
       "title": "Career Week Expo",
       "postedAt": "2026-10-22T16:59:45.514Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/career-week-expo"
+    },
+    "uottawa-computer-engineering-industry-day": {
+      "id": "uottawa-computer-engineering-industry-day",
+      "title": "uOttawa Computer Engineering industry day",
+      "postedAt": "2026-10-22T21:25:10.158Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/uottawa-computer-engineering-industry-day"
     }
   }
 }
