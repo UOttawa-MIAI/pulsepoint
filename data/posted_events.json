@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-22T21:25:10.158Z",
-  "totalPosted": 38,
+  "lastSyncAt": "2026-10-23T21:16:40.165Z",
+  "totalPosted": 39,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -229,6 +229,12 @@
       "title": "uOttawa Computer Engineering industry day",
       "postedAt": "2026-10-22T21:25:10.158Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/uottawa-computer-engineering-industry-day"
+    },
+    "civil-engineering-undergraduate-research-event": {
+      "id": "civil-engineering-undergraduate-research-event",
+      "title": "Civil Engineering Undergraduate Research Event",
+      "postedAt": "2026-10-23T21:16:40.165Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/civil-engineering-undergraduate-research-event"
     }
   }
 }
