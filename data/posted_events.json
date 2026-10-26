@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-23T21:16:40.165Z",
-  "totalPosted": 39,
+  "lastSyncAt": "2026-10-26T22:32:50.333Z",
+  "totalPosted": 40,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -235,6 +235,12 @@
       "title": "Civil Engineering Undergraduate Research Event",
       "postedAt": "2026-10-23T21:16:40.165Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/civil-engineering-undergraduate-research-event"
+    },
+    "heart-failure-non-reduced-ejection-fraction-primary-care-putting-guidelines-practice": {
+      "id": "heart-failure-non-reduced-ejection-fraction-primary-care-putting-guidelines-practice",
+      "title": "Heart Failure with Non-Reduced Ejection Fraction in Primary Care: Putting Guidelines into Practice",
+      "postedAt": "2026-10-26T22:32:50.333Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/heart-failure-non-reduced-ejection-fraction-primary-care-putting-guidelines-practice"
     }
   }
 }
