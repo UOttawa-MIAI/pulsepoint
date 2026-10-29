@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-26T22:32:50.333Z",
-  "totalPosted": 40,
+  "lastSyncAt": "2026-10-29T22:39:42.290Z",
+  "totalPosted": 42,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -241,6 +241,18 @@
       "title": "Heart Failure with Non-Reduced Ejection Fraction in Primary Care: Putting Guidelines into Practice",
       "postedAt": "2026-10-26T22:32:50.333Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/heart-failure-non-reduced-ejection-fraction-primary-care-putting-guidelines-practice"
+    },
+    "what-you-need-know-about-accessibility-services-campus-fr": {
+      "id": "what-you-need-know-about-accessibility-services-campus-fr",
+      "title": "What You Need to Know About Accessibility Services On Campus (FR)",
+      "postedAt": "2026-10-29T22:39:42.290Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/what-you-need-know-about-accessibility-services-campus-fr"
+    },
+    "what-you-need-know-about-accessibility-services-campus": {
+      "id": "what-you-need-know-about-accessibility-services-campus",
+      "title": "What You Need to Know About Accessibility Services On Campus (EN)",
+      "postedAt": "2026-10-29T22:39:42.290Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/what-you-need-know-about-accessibility-services-campus"
     }
   }
 }
