@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-10-29T22:39:42.290Z",
-  "totalPosted": 42,
+  "lastSyncAt": "2026-11-03T23:08:04.273Z",
+  "totalPosted": 45,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -253,6 +253,24 @@
       "title": "What You Need to Know About Accessibility Services On Campus (EN)",
       "postedAt": "2026-10-29T22:39:42.290Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/what-you-need-know-about-accessibility-services-campus"
+    },
+    "what-you-need-know-about-accessibility-services-campus-french": {
+      "id": "what-you-need-know-about-accessibility-services-campus-french",
+      "title": "What you need to know about accessibility services on campus (In French)",
+      "postedAt": "2026-11-03T23:08:04.273Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/what-you-need-know-about-accessibility-services-campus-french"
+    },
+    "what-you-need-know-about-accessibility-services-campus-english": {
+      "id": "what-you-need-know-about-accessibility-services-campus-english",
+      "title": "What you need to know about accessibility services on campus (In English)",
+      "postedAt": "2026-11-03T23:08:04.273Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/what-you-need-know-about-accessibility-services-campus-english"
+    },
+    "aci-ottawa-student-chapter-meet-industry": {
+      "id": "aci-ottawa-student-chapter-meet-industry",
+      "title": "ACI Ottawa Student Chapter: Meet with the Industry",
+      "postedAt": "2026-11-03T23:08:04.273Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/aci-ottawa-student-chapter-meet-industry"
     }
   }
 }
