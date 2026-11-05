@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-03T23:08:04.273Z",
-  "totalPosted": 45,
+  "lastSyncAt": "2026-11-05T19:47:44.683Z",
+  "totalPosted": 46,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -271,6 +271,12 @@
       "title": "ACI Ottawa Student Chapter: Meet with the Industry",
       "postedAt": "2026-11-03T23:08:04.273Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/aci-ottawa-student-chapter-meet-industry"
+    },
+    "design-day": {
+      "id": "design-day",
+      "title": "Design Day",
+      "postedAt": "2026-11-05T19:47:44.683Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/design-day"
     }
   }
 }
