@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-05T19:47:44.683Z",
-  "totalPosted": 46,
+  "lastSyncAt": "2026-11-06T19:12:37.818Z",
+  "totalPosted": 47,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -277,6 +277,12 @@
       "title": "Design Day",
       "postedAt": "2026-11-05T19:47:44.683Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/design-day"
+    },
+    "technovation-girls-ottawa-information-session": {
+      "id": "technovation-girls-ottawa-information-session",
+      "title": "Technovation Girls Ottawa – Information Session",
+      "postedAt": "2026-11-06T19:12:37.818Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/technovation-girls-ottawa-information-session"
     }
   }
 }
