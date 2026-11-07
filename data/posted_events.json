@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-06T19:12:37.818Z",
-  "totalPosted": 47,
+  "lastSyncAt": "2026-11-07T05:38:00.614Z",
+  "totalPosted": 48,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -283,6 +283,12 @@
       "title": "Technovation Girls Ottawa – Information Session",
       "postedAt": "2026-11-06T19:12:37.818Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/technovation-girls-ottawa-information-session"
+    },
+    "info-session-engineering-entrepreneurship-business-competitions": {
+      "id": "info-session-engineering-entrepreneurship-business-competitions",
+      "title": "Info session: Engineering Entrepreneurship and Business Competitions",
+      "postedAt": "2026-11-07T05:38:00.614Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/info-session-engineering-entrepreneurship-business-competitions"
     }
   }
 }
