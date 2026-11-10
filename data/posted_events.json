@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-07T05:38:00.614Z",
-  "totalPosted": 48,
+  "lastSyncAt": "2026-11-10T01:24:24.442Z",
+  "totalPosted": 49,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -289,6 +289,12 @@
       "title": "Info session: Engineering Entrepreneurship and Business Competitions",
       "postedAt": "2026-11-07T05:38:00.614Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/info-session-engineering-entrepreneurship-business-competitions"
+    },
+    "uogradflix-competition-french-q-session": {
+      "id": "uogradflix-competition-french-q-session",
+      "title": "uOGRADflix competition : French  Q & A session",
+      "postedAt": "2026-11-10T01:24:24.442Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/uogradflix-competition-french-q-session"
     }
   }
 }
