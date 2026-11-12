@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-10T01:24:24.442Z",
-  "totalPosted": 49,
+  "lastSyncAt": "2026-11-12T00:25:38.222Z",
+  "totalPosted": 50,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -295,6 +295,12 @@
       "title": "uOGRADflix competition : French  Q & A session",
       "postedAt": "2026-11-10T01:24:24.442Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/uogradflix-competition-french-q-session"
+    },
+    "uogradflix-competition-english-q-session": {
+      "id": "uogradflix-competition-english-q-session",
+      "title": "uOGRADflix competition : English Q & A session",
+      "postedAt": "2026-11-12T00:25:38.222Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/uogradflix-competition-english-q-session"
     }
   }
 }
