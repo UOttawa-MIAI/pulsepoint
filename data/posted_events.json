@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-12T00:25:38.222Z",
-  "totalPosted": 50,
+  "lastSyncAt": "2026-11-17T01:48:41.957Z",
+  "totalPosted": 51,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -301,6 +301,12 @@
       "title": "uOGRADflix competition : English Q & A session",
       "postedAt": "2026-11-12T00:25:38.222Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/uogradflix-competition-english-q-session"
+    },
+    "national-day-remembrance-ecole-polytechnique-commemorative-activity": {
+      "id": "national-day-remembrance-ecole-polytechnique-commemorative-activity",
+      "title": "National Day of Remembrance: École Polytechnique commemorative activity",
+      "postedAt": "2026-11-17T01:48:41.957Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/national-day-remembrance-ecole-polytechnique-commemorative-activity"
     }
   }
 }
