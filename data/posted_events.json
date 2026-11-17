@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-17T01:48:41.957Z",
-  "totalPosted": 51,
+  "lastSyncAt": "2026-11-17T15:49:42.105Z",
+  "totalPosted": 53,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -307,6 +307,18 @@
       "title": "National Day of Remembrance: École Polytechnique commemorative activity",
       "postedAt": "2026-11-17T01:48:41.957Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/national-day-remembrance-ecole-polytechnique-commemorative-activity"
+    },
+    "final-exam-review-sessions": {
+      "id": "final-exam-review-sessions",
+      "title": "Final exam review sessions",
+      "postedAt": "2026-11-17T15:49:42.105Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/final-exam-review-sessions"
+    },
+    "workshop-final-exam-success-french-session": {
+      "id": "workshop-final-exam-success-french-session",
+      "title": "Workshop: Final Exam Success (French session)",
+      "postedAt": "2026-11-17T15:49:42.105Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/workshop-final-exam-success-french-session"
     }
   }
 }
