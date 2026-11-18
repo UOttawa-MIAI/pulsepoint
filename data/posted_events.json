@@ -1,6 +1,6 @@
 {
-  "lastSyncAt": "2026-11-17T15:49:42.105Z",
-  "totalPosted": 53,
+  "lastSyncAt": "2026-11-18T00:51:04.297Z",
+  "totalPosted": 54,
   "postedEvents": {
     "selected-areas-cryptography-conference-2026": {
       "id": "selected-areas-cryptography-conference-2026",
@@ -319,6 +319,12 @@
       "title": "Workshop: Final Exam Success (French session)",
       "postedAt": "2026-11-17T15:49:42.105Z",
       "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/workshop-final-exam-success-french-session"
+    },
+    "workshop-final-exam-success-english-session": {
+      "id": "workshop-final-exam-success-english-session",
+      "title": "Workshop: final exam success (English session)",
+      "postedAt": "2026-11-18T00:51:04.297Z",
+      "eventUrl": "https://www.uottawa.ca/faculty-engineering/events-all/workshop-final-exam-success-english-session"
     }
   }
 }
